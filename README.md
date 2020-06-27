@@ -1,5 +1,3 @@
-<div align="center">
-
 # GDP-Analysis
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/GDP-Analysis?style=plastic&color=0f0&label=Size)
@@ -13,7 +11,5 @@
 GDP Analysis using Python.
 [View](https://colab.research.google.com/github/2KAbhishek/GDP-Analysis/blob/master/GDP-Analysis.ipynb)
 
-</div>
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 

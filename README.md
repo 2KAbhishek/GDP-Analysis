@@ -9,7 +9,5 @@
 ![License](https://img.shields.io/github/license/2kabhishek/GDP-Analysis?style=plastic&color=555&label=License)
 
 GDP Analysis using Python.
+
 [View](https://colab.research.google.com/github/2KAbhishek/GDP-Analysis/blob/master/GDP-Analysis.ipynb)
-
-
-

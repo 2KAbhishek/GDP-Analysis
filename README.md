@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/GDP-Analysis">BareMinimum</a></h1>
+<h1><a href="https://2kabhishek.github.io/GDP-Analysis">GDP Analysis</a></h1>
 
 <a href="https://github.com/2KAbhishek/GDP-Analysis/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/GDP-Analysis?style=flat&color=eee&label="> </a>
